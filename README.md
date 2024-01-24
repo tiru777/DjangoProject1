@@ -1,5 +1,9 @@
 ```
 Step1: create virtual machine 
+
+virtualenv venv
+Windows:venv/Scripts/activate
+Linux: venv/Source/bin/activate
 ```
 ```commandline
 pip install django
